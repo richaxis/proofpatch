@@ -1,0 +1,16 @@
+{
+  "network": "studionet",
+  "address": null,
+  "deployment_tx": null,
+  "deployer": null,
+  "contract_source_commit": null,
+  "contract_sha256": null,
+  "source_bytes": 27068,
+  "source_line_endings": "lf",
+  "deployed_at": null,
+  "supersedes": null,
+  "studio_import_url": null,
+  "explorer_url": null,
+  "status": "not_deployed",
+  "note": "Fresh ProofPatch deployment required."
+}
